@@ -6,7 +6,7 @@ High performance distributed cache helper with the support of serialization and 
 ### Download or Install
 The latest stable release is available on NuGet: https://www.nuget.org/packages/Distributed.RedisCache
 
-`Install-Package Distributed.RedisCache -Version 3.1.0`
+`Install-Package Distributed.RedisCache -Version 3.1.1`
 
 #### Example
 **Startup.cs**
